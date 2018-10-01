@@ -23,13 +23,15 @@ To be able to play on Windows, first you have to download the binaries:
 
 ## Game controls
 
-|     Action     	|     Button(s)     	|           Description           	|
-|:--------------:	|:-----------------:	|:-------------------------------:	|
-|      Shoot     	| Space | Left ctrl 	|     Shoot the spaceship gun     	|
-| Horizontal (+) 	|     Right | d     	| Move the spaceship to the right 	|
-| Horizontal (-) 	|      Left | a     	|  Move the spaceship to the left 	|
-|  Vertical (+)  	|       Up | w      	|   Move the space ship forward   	|
-|  Vertical (-)  	|      Down | s     	|     Move the space ship back    	|
+|     Action     	|     Button(s)     	|                  Description                  	|
+|:--------------:	|:-----------------:	|:---------------------------------------------:	|
+|      Shoot     	| Space | Left ctrl 	|            Shoot the spaceship gun            	|
+| Horizontal (+) 	|     Right | d     	|        Move the spaceship to the right        	|
+| Horizontal (-) 	|      Left | a     	|         Move the spaceship to the left        	|
+|  Vertical (+)  	|       Up | w      	|           Move the spaceship forward          	|
+|  Vertical (-)  	|      Down | s     	|            Move the spaceship back            	|
+|     Restart    	|         r         	| Restarts the game once the player is defeated 	|
+
 
 ## Game features
 
