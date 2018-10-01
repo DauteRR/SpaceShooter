@@ -30,9 +30,6 @@ To be able to play on Windows, first you have to download the binaries:
 | Horizontal (-) 	|      Left | a     	|  Move the spaceship to the left 	|
 |  Vertical (+)  	|       Up | w      	|   Move the space ship forward   	|
 |  Vertical (-)  	|      Down | s     	|     Move the space ship back    	|
-|                	|                   	|                                 	|
-|                	|                   	|                                 	|
-|                	|                   	|                                 	|
 
 ## Game features
 
