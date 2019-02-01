@@ -45,12 +45,12 @@ To be able to play on Windows, first you have to download the binaries:
 
 |             Asteroids, movement, shots            |         Enemies, explosions and background         |
 |             :-------------------------:           |            :-------------------------:             |
-| <img src="gifs/1.gif" width="450" height="373"/>  |  <img src="gifs/2.gif" width="450" height="373" /> |
+| <img src="Docs/gifs/1.gif" width="450" height="373"/>  |  <img src="Docs/gifs/2.gif" width="450" height="373" /> |
 
 
 |               Punctuation system                 |                   Restart game                       |
 |            :-------------------------:           |             :-------------------------:              |
-| <img src="gifs/3.gif" width="450" height="373"/> |  <img src="gifs/4.gif" width="450" height="373" />   |
+| <img src="Docs/gifs/3.gif" width="450" height="373"/> |  <img src="Docs/gifs/4.gif" width="450" height="373" />   |
 
 ## Author
 
